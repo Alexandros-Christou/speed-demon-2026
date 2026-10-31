@@ -25,3 +25,7 @@ Evidence: `research/speed-demon-2026/track-d-correctness-20261030.json`, `track-
 ## Remaining actions
 
 Alex's actual understanding/review, public OSI licence, selected-repository board-app access, official runs and their PERF citations, final declarations and receipt remain outstanding. Codex performed the implementation, reference/oracle comparisons and internal grammar/style review. No human review or Grammarly use is claimed.
+
+## Preparation status, 31 October 2026
+
+The earlier pending-review notes describe the qualification stage. Alex has since replied "all g00d" to the review request and approved the MIT licence, required public release and selected-repository read-only board-app access. The MIT licence is now in the private repository. GitHub still requires Alex to complete Confirm access before app installation can finish. No official board run ID, official score or final submission receipt has been recorded. Local harness IDs remain local evidence only.
