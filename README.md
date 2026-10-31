@@ -20,8 +20,8 @@ Local checks passed against the official reference and published full seed-1 out
 
 These are local Ubuntu/WSL2 observations, not official board results, K values or scores. Each track's final full-data batch passed correctness, timeout, sandbox and timing-spread checks. Retried batches and actual methodology are described in the PERF files. Official run citations remain outstanding.
 
-Codex implemented and tested the code. Alex's actual understanding and review have not yet been confirmed; `REVIEW.md` supports that review without claiming it happened. Public OSI licence selection, repository publication, board-app access and final declarations remain uncleared. This is a local review packet, not a submitted entry or a grant of a public licence.
+Codex implemented and tested the code. Alex replied ‘all g00d’ to the review request on 31 October 2026. He approved the MIT licence, public release for code freeze and selected-repository read-only board-app access. Installation is awaiting GitHub re-authentication; final declarations remain outstanding. The code is MIT-licensed. This private review packet is not a submitted entry.
 
 ## Submission preparation
 
-The private repository is `Alexandros-Christou/speed-demon-2026`; the required branch is `speed-demon`. Repository publication and an OSI licence have not been approved. A private repository is not an official entry or board result.
+The private repository is `Alexandros-Christou/speed-demon-2026`; the required branch is `speed-demon`. Alex approved the MIT licence and public release for code freeze on 31 October. The repository remains private until that release. A private repository is not an official entry or board result.
