@@ -45,3 +45,7 @@ optimisation history. No entrant human-understanding review has been confirmed.
 
 Codex produced the implementation, documentation and local verification work.
 No other model coding contribution is claimed.
+
+## Preparation status, 31 October 2026
+
+The earlier pending-review notes describe the qualification stage. Alex has since replied "all g00d" to the review request and approved the MIT licence, required public release and selected-repository read-only board-app access. The MIT licence is now in the private repository. GitHub still requires Alex to complete Confirm access before app installation can finish. No official board run ID, official score or final submission receipt has been recorded. Local harness IDs remain local evidence only.
