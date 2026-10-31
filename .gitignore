@@ -1,0 +1,4 @@
+.data/
+*.o
+run
+__pycache__/
