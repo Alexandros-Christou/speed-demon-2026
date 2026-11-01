@@ -49,3 +49,18 @@ No other model coding contribution is claimed.
 ## Preparation status, 31 October 2026
 
 The earlier pending-review notes describe the qualification stage. Alex has since replied "all g00d" to the review request and approved the MIT licence, required public release and selected-repository read-only board-app access. The MIT licence is now in the private repository. GitHub still requires Alex to complete Confirm access before app installation can finish. No official board run ID, official score or final submission receipt has been recorded. Local harness IDs remain local evidence only.
+
+## Official live-board result, 1 November 2026
+
+This dated result supersedes the earlier pending-board and pending-installation notes. Alex completed GitHub authentication. The selected-repository app installation was verified, and the A/C/D entry form returned its submission receipt.
+
+- Official run ID: `run-48aac16a38f2`.
+- Tested commit: `a3342bc94b45be01911f744b46c03940a3151158`.
+- Completed: 2026-11-01T22:52:57Z.
+- Correctness, timeout, sandbox, Dockerfile check and build: passed.
+- Board T: 0.62896 seconds.
+- Board peak M: 34,799,616 bytes.
+- Measured source lines S: 124; dependency factor D: 1.
+- Board K: 9.22709; machine-axis points: 48.253237.
+
+Source: [official live-board feed](https://s3.amazonaws.com/raptors.dev/speeddemon.dev/2026/board/board.json), generated 2026-11-01T22:53:19Z. These are practice-board measurements on the full public seed-1 dataset, not the hidden holdout result or final judging total. No code was changed for this documentation update. Codex reviewed the added language and numeric transcription; Grammarly was not used.
