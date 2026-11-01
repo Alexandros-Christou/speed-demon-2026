@@ -29,3 +29,18 @@ Alex's actual understanding/review, public OSI licence, selected-repository boar
 ## Preparation status, 31 October 2026
 
 The earlier pending-review notes describe the qualification stage. Alex has since replied "all g00d" to the review request and approved the MIT licence, required public release and selected-repository read-only board-app access. The MIT licence is now in the private repository. GitHub still requires Alex to complete Confirm access before app installation can finish. No official board run ID, official score or final submission receipt has been recorded. Local harness IDs remain local evidence only.
+
+## Official live-board result, 1 November 2026
+
+This dated result supersedes the earlier pending-board and pending-installation notes. Alex completed GitHub authentication. The selected-repository app installation was verified, and the A/C/D entry form returned its submission receipt.
+
+- Official run ID: `run-0fb42ea18a19`.
+- Tested commit: `a3342bc94b45be01911f744b46c03940a3151158`.
+- Completed: 2026-11-01T22:53:14Z.
+- Correctness, timeout, sandbox, Dockerfile check and build: passed.
+- Board T: 7.875625 seconds.
+- Board peak M: 129,953,792 bytes.
+- Measured source lines S: 176; dependency factor D: 1.
+- Board K: 3.615767; machine-axis points: 27.910021.
+
+Source: [official live-board feed](https://s3.amazonaws.com/raptors.dev/speeddemon.dev/2026/board/board.json), generated 2026-11-01T22:53:19Z. These are practice-board measurements on the full public seed-1 dataset, not the hidden holdout result or final judging total. No code was changed for this documentation update. Codex reviewed the added language and numeric transcription; Grammarly was not used.
